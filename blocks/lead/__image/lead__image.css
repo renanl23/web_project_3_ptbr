@@ -1,0 +1,16 @@
+.lead__image {
+  max-width: 100%;
+  filter: grayscale(100%);
+}
+
+/* @media screen and (max-width: 1280px) {
+  .lead__image {
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__image {
+    margin-top: 0;
+  }
+} */
