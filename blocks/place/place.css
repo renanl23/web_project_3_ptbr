@@ -59,12 +59,12 @@
     max-width: 500px;
   }
 }
-
+/* É esperado no máximo 10px de espaçamento entre esses pontos para width = 320px: */
 @media screen and (max-width: 425px) {
   .place {
     max-width: 100%;
     grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
-    gap: 30px;
+    gap: 10px; /* Espaçamento em 10px */
     padding: 0 0 48px 0;
   }
 }
