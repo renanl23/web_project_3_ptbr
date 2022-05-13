@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 163%;
+  line-height: 1.6;
   grid-area: text;
 }
 
@@ -11,7 +11,7 @@
   .place__main-text {
     max-width: 352px;
     font-size: 16px;
-    line-height: 26.08px;
+    line-height: 1.6;
   }
 }
 

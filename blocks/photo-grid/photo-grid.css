@@ -8,7 +8,7 @@
   margin: 0 auto;
 }
 /* Melhorar fluidez na quebra de coluna do grid  */
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1200px) {
   .photo-grid {
     max-width: 880px;
     padding-top: 88px;
